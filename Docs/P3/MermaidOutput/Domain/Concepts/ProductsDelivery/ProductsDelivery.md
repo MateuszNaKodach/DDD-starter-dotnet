@@ -70,8 +70,8 @@ No direct building blocks were found.
 
 - [ProductsDelivery](../../../../../../Sources/ProductsDelivery/ProductsDelivery.ProcessModel)
 - [ProductsDelivery](../../../../../../Sources/ProductsDelivery/ProductsDelivery.Adapters.Out)
-- [ProductsDelivery](../../../../../../Sources/ProductsDelivery/ProductsDelivery.Adapters.Api)
 - [ProductsDelivery](../../../../../../Sources/ProductsDelivery/ProductsDelivery.DeepModel)
+- [ProductsDelivery](../../../../../../Sources/ProductsDelivery/ProductsDelivery.Adapters.Api)
 
 ## People Perspective
 

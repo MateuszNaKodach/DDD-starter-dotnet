@@ -80,8 +80,8 @@ No related processes were found.
 
 ### Source code
 
-- [Commons](../../../../../../../Sources/Sales/Sales.DeepModel/Commons)
 - [Commons](../../../../../../../Sources/Sales/Sales.DeepModel.Tests/Commons)
+- [Commons](../../../../../../../Sources/Sales/Sales.DeepModel/Commons)
 
 ## People Perspective
 

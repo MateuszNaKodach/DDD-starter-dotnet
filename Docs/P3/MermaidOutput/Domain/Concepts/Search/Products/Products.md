@@ -61,8 +61,8 @@ No direct building blocks were found.
 
 ### Source code
 
-- [Products](../../../../../../../Sources/Search/Search.Api/Products)
 - [Products](../../../../../../../Sources/Search/Search.Infrastructure/Products)
+- [Products](../../../../../../../Sources/Search/Search.Api/Products)
 
 ## People Perspective
 
